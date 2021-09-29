@@ -402,7 +402,7 @@ flutter upgrade
 ### JSON
 
 ```
-:LspInstall jason
+:LspInstall json
 ```
 
 ### LaTeX
